@@ -1,0 +1,26 @@
+{
+  "name": "city-state-country",
+  "version": "0.1",
+  "description": "Get cities, states, countries across the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Patil",
+  "license": "ISC",
+  "keywords": [
+    "cities-list",
+    "states-list",
+    "countries-list",
+    "country-state-city-database",
+    "GeoLocation",
+    "Autocomplete"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishal2159/city_state_country.git"
+  },
+  "dependencies": {
+    "alasql": "^0.5.1"
+  }
+}
